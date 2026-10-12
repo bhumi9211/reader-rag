@@ -1,0 +1,29 @@
+
+# LLM Providers
+langchain-openai
+langchain-mistralai
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# Vector Database
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Document Loaders
+pypdf
+unstructured
+
+# Text Splitting
+langchain-text-splitters
+
+# Environment Management
+python-dotenv
+
+# Optional Utilities for Production
+tiktoken
+numpy
