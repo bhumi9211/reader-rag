@@ -1,7 +1,13 @@
 
 # LLM Providers
-langchain-openai
-langchain-mistralai
+langchain-google-genai
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+chromadb
+python-dotenv
+streamlit
 
 # LangChain Core
 langchain
