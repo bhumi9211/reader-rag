@@ -1,3 +1,4 @@
 .env
 document loaders
 splitters
+__pycache__/
